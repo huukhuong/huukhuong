@@ -1,8 +1,8 @@
 # 💫About Me :
-🌱 I was born in 2001
-🔭 I'm a student at Sai Gon University
-⚡ Being a mobile developer is my dream
-👯 My hobbies are coding, guitar and writing
+🌱 I was born in 2001 <br />
+🔭 I'm a student at Sai Gon University <br />
+⚡ Being a mobile developer is my dream <br />
+👯 My hobbies are coding, guitar and writing <br />
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kayden.khuong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tranhuu.khuong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huukhuongtran2510) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@huukhuong.tran) 
