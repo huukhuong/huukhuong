@@ -4,6 +4,11 @@
 ⚡ Being a mobile developer is my dream <br />
 👯 My hobbies are coding, guitar and writing <br />
 
+---
+![](https://komarev.com/ghpvc/?username=huukhuong&label=Visitors+Count&color=brightgreen)
+
+---
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kayden.khuong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tranhuu.khuong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huukhuongtran2510) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@huukhuong.tran) 
 
@@ -16,6 +21,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=huukhuong&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-![](https://komarev.com/ghpvc/?username=huukhuong&label=Visitors+Count&color=brightgreen)
